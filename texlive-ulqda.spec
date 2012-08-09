@@ -1,4 +1,4 @@
-# revision 18835
+# revision 26313
 # category Package
 # catalog-ctan /macros/latex/contrib/ulqda
 # catalog-date 2009-11-10 09:00:49 +0100
@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-ulqda
 Version:	1.1
-Release:	2
+Release:	3
 Summary:	Support of Qualitative Data Analysis
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ulqda
