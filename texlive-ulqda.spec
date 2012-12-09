@@ -61,3 +61,20 @@ pushd %{buildroot}%{_bindir}
 popd
 mkdir -p %{buildroot}%{_datadir}
 cp -fpar texmf-dist %{buildroot}%{_datadir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-3
++ Revision: 813137
+- Update to latest release.
+
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-2
++ Revision: 757248
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.1-1
++ Revision: 719838
+- texlive-ulqda
+- texlive-ulqda
+- texlive-ulqda
+
