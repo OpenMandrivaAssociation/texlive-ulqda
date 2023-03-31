@@ -1,6 +1,6 @@
 Name:		texlive-ulqda
 Version:	26313
-Release:	1
+Release:	2
 Summary:	Support of Qualitative Data Analysis
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ulqda
