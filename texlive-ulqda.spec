@@ -3,7 +3,7 @@ Version:	26313
 Release:	2
 Summary:	Support of Qualitative Data Analysis
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ulqda
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ulqda
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ulqda.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ulqda.doc.r%{version}.tar.xz
